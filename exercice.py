@@ -3,7 +3,7 @@
 
 
 def is_even_len(string: str) -> bool:
-    x= lengh(chaine)/2
+    x= len(chaine)/2
     pass
 
 
