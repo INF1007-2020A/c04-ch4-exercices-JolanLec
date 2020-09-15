@@ -13,6 +13,7 @@ def remove_third_char(string: str) -> str:
     begin = string[0: 2]
     end = string[3:]
 
+    return begin + end
 
 def replace_char(string: str, old_char: str, new_char: str) -> str:
     pass
